@@ -15,3 +15,6 @@ Some text to show how to deploy
 
 ## How to Build
 Some text
+
+## Copyright 
+Some text 
