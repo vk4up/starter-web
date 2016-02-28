@@ -4,6 +4,9 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Alice		PM		@_alice
+	Bob			QA		@_bob
+	
 
 # THANKS
 
