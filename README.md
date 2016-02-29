@@ -15,9 +15,12 @@ Some text to show contribution steps
 
 ## How to Deploy
 Some text to show how to deploy
+Some text to show how to deploy
 
 ## How to Build
 Some text
+Some text
 
 ## Copyright 
+Some text 
 Some text 
