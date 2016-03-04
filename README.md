@@ -4,6 +4,7 @@ Adding a line for rebase example, then more changes from a feature branch too
 
 ## Introduction
 Some intro text
+Change for Stash
 
 ## Purpose
 Sample website with plenty of files for demos
