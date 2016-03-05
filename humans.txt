@@ -6,8 +6,8 @@
     <name> -- <role> -- <twitter>
 	Alice		PM		@_alice
 	Bob			QA		@_bob
-	
-
+	Charles		QA		@_charles	
+	David		DEV		@_david
 # THANKS
 
     Thanks to one and all
@@ -16,3 +16,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+	SQL, Mongo
