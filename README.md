@@ -10,10 +10,7 @@ Change for Stash
 Sample website with plenty of files for demos
 
 ## How to Contribute
-Some text to show contribution steps
-Some text to show contribution steps *******
-Some text to show contribution steps *******
-Some text to show contribution steps *******
+Some text while stash is on
 
 ## How to Deploy
 Some text to show how to deploy
